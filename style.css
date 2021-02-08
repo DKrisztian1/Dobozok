@@ -1,0 +1,57 @@
+#jobb
+{
+margin-top: 6mm;
+margin-bottom: 6mm;
+border: 5px dotted burlywood;
+width: 80%;
+margin: auto;
+}
+
+#bal
+{
+margin-top: 6mm;
+margin-bottom: 6mm;
+border: 5px dotted burlywood;
+width: 70%;
+}
+
+.kek
+{
+padding-bottom: 1cm;
+border-left: 1mm dashed blueviolet;
+border-bottom: 2mm dashed blue;
+}
+
+.piros
+{
+border-right: 3mm double darkred;
+}
+
+#skek
+{
+color:dodgerblue;
+font-family: Cambria;
+font-weight: bolder;
+}
+
+#spiros
+{
+color:crimson;
+font-variant: small-caps;
+}
+
+p
+{
+text-align: justify;
+background-color: cornsilk;
+margin: 3mm;
+margin-top: 2mm;
+margin-bottom: 2mm;
+padding-left: 6mm;
+padding-right: 6mm;
+}
+
+p::first-line
+{
+text-indent: 1.5cm;
+}
